@@ -5,6 +5,14 @@
 Обработчики исключений: поддерживаются, но возникают ошибки
 Локали: поддерживаются
 
+
+这个项目是由Эшелон Майских发起并接近完成的，它支持几乎所有的vmp 3.5版本，但也存在一些缺点。
+支持的操作码：256/256
+在去虚拟化后的代码清理：支持
+异常处理程序：受支持，但可能出现错误
+本地化：受支持
+
+
 This project was started by Echelon Mayskikh and was almost finished, it supports almost any vmp 3.5 samples, but it has some disadvantages
 Supported opcodes: 256/256
 Code cleanup after devirt: Support
